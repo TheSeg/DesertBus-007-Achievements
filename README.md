@@ -1,4 +1,4 @@
-DesertBus-007-Achievements
+DesertBus 7 Achievements
 ==========================
 
-Desert Bus for Hope 7: Achievements by Seg.
+[Desert Bus for Hope 7](http://www.desertbus.org/): Achievements by [Seg](http://theseg.github.io/).
