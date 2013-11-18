@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="001-On-The-Road-Again.svg">
+   sodipodi:docname="001-On-The-Road-Again.svg"
+   inkscape:export-filename="/Users/seg/builds/DesertBus-007-Achievements/svg/001-On-The-Road-Again.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -135,8 +138,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="257.86246"
-     inkscape:cy="446.7767"
+     inkscape:cx="169.12055"
+     inkscape:cy="418.49242"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -153,7 +156,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -191,13 +194,13 @@
     <text
        xml:space="preserve"
        style="font-size:295.0559082px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="214.8829"
+       x="210.86678"
        y="706.93506"
        id="text3049"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3051"
-         x="214.8829"
+         x="210.86678"
          y="706.93506">1</tspan></text>
   </g>
 </svg>
